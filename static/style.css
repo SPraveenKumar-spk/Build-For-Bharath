@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+body{
+    background-image: url('https://raw.githubusercontent.com/SPraveenKumar-spk/Speech-Text-Speech/main/Background.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+h2,h3{
+    text-align: center;
+}
+.item{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+}
+.box{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* }        
+        h1{
+            text-align: center;
+            margin-top: 5rem;
+           color: wheat;
+        }
+        .item{
+            border: 3px solid black;
+            height: 30vh;
+            width: 30rem; 
+        }
+        .box{
+            margin-top: 20px;
+            display: flex;
+            justify-content: space-evenly;
+        }
+        h2{
+            text-align: center;
+            padding: 5px;
+            color: whitesmoke;
+        }
+        .item1{
+            padding: 10px;
+            margin-top: 10px;
+        }
+        .item2{
+            padding: 10px;
+            margin-top: 10px;
+        }
+        .form{
+            margin-top: 5px;
+        }
+        h4{
+            margin-top: 5px;
+        }
+        .lang{
+            padding-top: 10px;
+            padding-left: 10px;
+        }
+        .lang button{
+            padding: 5px;
+            margin-left: 10px;
+            border-radius: 8px;
+            font-size: 15px;
+            
+        }
+        .lang button:hover{
+            color: red;
+        }
+        .result{
+            font-size: 15px;
+            margin-top: 5px;
+        }
+        .form input{
+            margin-top: 5px;
+            margin-left: 15px;
+            border-radius:5px;
+            padding: 5px;
+            font-size: 15px;
+            font-weight: bold;
+        }
+        .form input:hover{
+            color: red;
+        }
+        .input-text {
+            margin-top: 10px;
+            font-size: 15px;
+            
+        }
+        .input-text textarea{
+            background-color: antiquewhite;
+        } */
